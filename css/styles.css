@@ -22,8 +22,17 @@
 	text-decoration: none;
 }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid green;
+}
+
 body {
 	font-size: 16px;
 	background-color: pink;
+}
+
+.menu-items {
+	background-color: purple;
+	color: white;
 }
 
